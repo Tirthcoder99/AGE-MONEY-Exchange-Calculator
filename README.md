@@ -17,14 +17,15 @@ Make sure Python is installed on your machine. [Download here](https://www.pytho
 Open your terminal/command prompt and run:  
 ```bash
 pip install forex-python
-3️⃣ Clone or Download the Project
+
+### 3️⃣ Clone or Download the Project
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/Age-Currency-Calculator.git
 Or simply download the .py file.
 
-4️⃣ Run the App
+### 4️⃣ Run the App
 Navigate to the project folder and run:
 
 bash
